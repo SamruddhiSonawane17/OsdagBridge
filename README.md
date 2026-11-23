@@ -41,8 +41,8 @@ OsdagBridge/
 ├── pyproject.toml
 ├── README.md
 ├── src/
-│   ├── osdagbridge/                 # Desktop application and shared core (layout may vary)
-│   └── ospgrillage/                 # Included analysis and report modules
+│   ├── osdagbridge/                 
+│   └── ospgrillage/                 
 ├── tests/
 ├── docs/
 └── examples/
